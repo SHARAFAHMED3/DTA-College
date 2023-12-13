@@ -26,6 +26,6 @@ Follow these steps to set up the DTA Institute Profile Website locally:
 
 Clone the Repository:
 
-https://github.com/SHARAFAHMED3/DTA-College.git
+gh repo clone SHARAFAHMED3/DTA-College
 cd DTA College
 
