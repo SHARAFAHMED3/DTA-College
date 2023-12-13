@@ -1,8 +1,8 @@
-# DTA Institute Profile Website
+### DTA Institute Profile Website
 
 Welcome to the DTA Institute Profile Website! This project showcases information about our educational institute, including class-wise subjects, categories, and details about the institute's events.
 
-## Features
+Project Objectives
 
 ### 1. Class-wise Subjects
 - View a list of classes offered at DTA Institute.
@@ -20,12 +20,12 @@ Welcome to the DTA Institute Profile Website! This project showcases information
 - Stay updated on the latest events hosted by DTA Institute.
 - Details about upcoming and past events.
 
-## Installation
+Getting Started
 
 Follow these steps to set up the DTA Institute Profile Website locally:
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/dta-institute-profile.git
-cd dta-institute-profile
+Clone the Repository:
+
+https://github.com/SHARAFAHMED3/DTA-College.git
+cd DTA College
 
